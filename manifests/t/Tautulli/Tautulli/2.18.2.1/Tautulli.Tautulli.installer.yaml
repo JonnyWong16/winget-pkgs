@@ -7,7 +7,7 @@ Platform:
 - Windows.Desktop
 InstallerType: nullsoft
 InstallerSwitches:
-  Silent: /S --nolaunch
+  Silent: /S
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/Tautulli/Tautulli/releases/download/v2.18.2/Tautulli-windows-v2.18.2-x64.exe
